@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="djang-blog@localhost" uuid="1317332a-e245-46fe-97d4-e6b362f29bda">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/djang-blog</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db" uuid="2022f549-8540-422f-97dc-f4f5692562b6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\mrnos\Desktop\django-study-main\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
